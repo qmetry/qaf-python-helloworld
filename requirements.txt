@@ -1,0 +1,8 @@
+#qaf-python
+#git+https://github.com/qmetry/qaf-python.git@master
+pytest
+webdriver-manager==4.0.0
+#master
+#pytest-xdist
+file:///Users/chirag/PycharmProjects/qaf-python-automation
+

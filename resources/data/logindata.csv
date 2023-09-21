@@ -1,0 +1,5 @@
+testcaseId, username, password, summary, username-error, pwd-error, gen-error
+TC-002,,,blank user and pwd, Please enter username, Please enter password,
+TC-003,test,,blank pwd, , Please enter password,
+TC-004,,test,blank user, Please enter username, ,
+TC-005,test,test,wrong user and pwd,,,"Wrong username or password, please try again!..."

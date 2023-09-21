@@ -1,0 +1,7 @@
+loginpage.username.loc={"locator":"name=username","desc":"user name field"}
+loginpage.password.loc={"locator":"name=password","desc":"password field"}
+loginpage.login.loc={"locator":"css=.submit","desc":"Login button"}
+
+loginpage.username-error.loc={"locator":"id=username-error","desc":"user name field error"}
+loginpage.password-error.loc={"locator":"id=password-error","desc":"password field error"}
+loginpage.login-error.loc={"locator":"id=loginerror","desc":"Login form error"}

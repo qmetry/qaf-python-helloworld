@@ -1,0 +1,2 @@
+
+useraccountpage.username.loc={"locator":"xpath=.//tr[./th[.='username:']]/td","desc":"user name label"}
